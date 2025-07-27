@@ -9,13 +9,13 @@
 
 <p align="left"> <a href="https://twitter.com/guptaravi2030" target="blank"><img src="https://img.shields.io/twitter/follow/guptaravi2030?logo=twitter&style=for-the-badge" alt="guptaravi2030" /></a> </p>
 
-- 🔭 I’m currently working on [Gaming Development Projects](Notify Soon)
+- 🔭 I’m currently working on [Gaming Development Projects](In Coding Cult Technologies Pvt Ltd)
 
 - 🌱 I’m currently learning **SpringBoot,AI Integration,Blockchain**
 
 - 👯 I’m looking to collaborate on **Fintech projects**
 
-- 🤝 I’m looking for help with **Community Projects**
+- 🤝 I’m Contrubuting in **Community Projects**
 
 - 👨‍💻 All of my projects are available at [RaviInCode](RaviInCode)
 
