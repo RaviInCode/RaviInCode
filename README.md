@@ -30,7 +30,7 @@
 <a href="https://twitter.com/guptaravi2030" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="guptaravi2030" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/guptaravi8080" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="guptaravi8080" height="30" width="40" /></a>
 <a href="https://instagram.com/gupta_ravi8089" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="gupta_ravi8089" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/the_crunchy_life" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="the_crunchy_life" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@The_Next_Apsiode" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="the_crunchy_life" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/https://www.geeksforgeeks.org/user/ravigupta27302/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://www.geeksforgeeks.org/user/ravigupta27302/" height="30" width="40" /></a>
 </p>
 
